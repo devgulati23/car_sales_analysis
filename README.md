@@ -64,24 +64,8 @@ This data science project analyzes a **car sales dataset** to uncover insights i
 
 ---
 
-### ▶️ How to Use
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/devgulati23/car-sales-analysis.git
-   ```
-
-2. **Open the Notebook**
-
-   * Launch `car_sales_analysis.ipynb` using Jupyter Notebook or JupyterLab.
-
-3. **Run Each Cell**
-
-   * Follow along step-by-step to understand the full analysis.
-
----
 
 ### 👨‍💻 Author
 📎 [LinkedIn](https://www.linkedin.com/in/dev-gulati-841640291)
 📧 [devgulati2004@gmail.com](mailto:devgulati2004@gmail.com)
+---
