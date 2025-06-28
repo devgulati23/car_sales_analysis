@@ -58,7 +58,7 @@ This data science project analyzes a **car sales dataset** to uncover insights i
 ```
 📦 car-sales-analysis/
  ┣ 📄 car_sales_analysis.ipynb   # Jupyter notebook with complete code and visuals
- ┣ 📄 car-sales.csv              # Raw dataset
+ ┣ 📄 carsales.csv              # Raw dataset
  ┗ 📄 README.md                  # Project overview
 ```
 
